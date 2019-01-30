@@ -3,7 +3,7 @@
 ### Summary
 This is a Node-based command line interface that allows the user to enter one of three commands followed by what they want to search in order to view information about it.
 
-###### To see the app in action: https://drive.google.com/file/d/1onAwxrSlKEYZtARWMm77-V3a_llHqPwI/view
+###### To see the app in action: https://drive.google.com/file/d/1UpEgcPzPu18hgiXob7hD-EIBudtM4vu9/view
 
 ### Concert Search
 ###### Syntax: concert-this < artist/band name here >
